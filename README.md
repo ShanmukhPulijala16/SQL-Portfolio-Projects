@@ -1,4 +1,4 @@
-SQL Projects:
+# SQL Projects:
 1. Data Cleaning
 2. Data Exploration
 
